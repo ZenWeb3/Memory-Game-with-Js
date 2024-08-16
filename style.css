@@ -54,7 +54,7 @@ body {
 }
 
 .card .back-view {
-  /* transform: rotateY(-180deg) !important; */
+  transform: rotateY(-180deg) !important;
 }
 
 .cards .card .view {
